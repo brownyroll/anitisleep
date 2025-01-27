@@ -97,7 +97,7 @@ if __name__ == "__main__":
 # import time
 # import ctypes
 
-# print("💤 Anti Sleep ---------------------- - [] X")
+# print("Anti Sleep ---------------------- - [] X")
 # print("This program will anti sleep mode for you")
 # print("")
 # print("Version 1.0 Thank for use my product")
